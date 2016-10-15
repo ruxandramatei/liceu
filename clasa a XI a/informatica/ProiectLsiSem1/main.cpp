@@ -58,6 +58,11 @@ int main(){
           citire(RutaT);
           ordonareInsertKilom(primul,ultimul,RutaT);
         }
+        cout <<"Rutele citite vor fi afisate in IESIRE.txt";
+        for(ruta * i = primul ; i ; i = i->urm){
+          afisare(i);
+          cout<<"\n";
+        }
         break;
       }
       case 2:{

@@ -5,7 +5,7 @@ void stergereCunData(int pret1 , ruta * &prim , ruta * & ultim){
     prim = prim->urm;
     delete deSters;
   }
-  for(ruta * i =prim ; i ->urm ; i = i->urm){
+  for(ruta * i =prim ; i ->urm ;){
     if(i->urm->pret == pret1){
       if(i->urm->urm == NULL){
         ruta * deSters = i->urm;
@@ -19,5 +19,6 @@ void stergereCunData(int pret1 , ruta * &prim , ruta * & ultim){
         delete deSters;
       }
     }
+    else i = i->urm;
   }
 }
