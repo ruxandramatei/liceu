@@ -1,0 +1,4 @@
+13
+31
+
+Nr de permutari e : 2
