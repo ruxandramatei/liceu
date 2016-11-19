@@ -4,7 +4,7 @@
 using namespace std;
 
 ifstream in("pb.in");
-ofstream out("pb.out");
+ofstream out("pb.txt");
 
 int n;
 int st[10];
@@ -27,7 +27,7 @@ bool solutie(int k){
 }
 
 void afisare(){
-  out<<'{';
+  out<<"{ ";
   for(int i = 1; i <= n; i++)
     out<<st[i]<<' ';
   out<<"}\n";
