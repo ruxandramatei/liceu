@@ -1,3 +1,9 @@
+/**Conditii permutari:
+    *1<=st[k]<=n
+    *st[k]!=st[i], i e {1,k-1}
+    *k == n 
+*/
+
 #include <iostream>
 #include <fstream>
 
@@ -9,7 +15,6 @@ ofstream out("pb.txt");
 int n;
 int st[10];
 
-//citire numar
 void citire(){
   in>>n;
 }
