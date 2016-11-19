@@ -22,7 +22,7 @@ bool validare(int k){
 
 void afisare(){
   for(int i = 1; i <= n; i++)
-    out<<"f("<<i<<") = "<<st[i]<<" ; ";
+    out<<"f("<<i<<") = "<<st[i]<<' ';
   out<<'\n';
 }
 
