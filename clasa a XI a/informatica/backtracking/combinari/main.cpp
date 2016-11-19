@@ -1,5 +1,5 @@
 /**Conditii combinari:
-    *st[k-1]+1 <= st[k] <= n-m+
+    *st[k-1]+1 <= st[k] <= n-m+k
     *k == m
 */
 #include <iostream>
