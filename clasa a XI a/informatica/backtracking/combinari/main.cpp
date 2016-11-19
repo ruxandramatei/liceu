@@ -45,7 +45,6 @@ void bkt(int k){
 
 int main(){
   citire();
-  //trebuie ca prima data st[1] sa fie 1 ca sa intram in conditiile de la bkt
   //st[0]=0;
   bkt(1);
   return 0;
