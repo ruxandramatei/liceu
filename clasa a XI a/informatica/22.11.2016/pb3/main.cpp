@@ -5,7 +5,7 @@
 using namespace std;
 
 ifstream in("pb.in");
-ofstream out("pb.out");
+ofstream out("pb.txt");
 
 int n, v, st[10];
 
