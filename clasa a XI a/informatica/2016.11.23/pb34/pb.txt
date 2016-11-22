@@ -1,0 +1,10 @@
+abab
+abax
+abxa
+axab
+axax
+axba
+baba
+baxa
+xaba
+xaxa
