@@ -14,7 +14,7 @@ void citire(){
 }
 
 void afisare(){
-  for(int i=n;i>=1;i--){
+  for(int i=1;i<=n;i++){
     out<<st[i];
   }
   out<<'\n';
@@ -25,7 +25,7 @@ void bkt(int k){
     if(v[i]==false){
       st[k]=i;
       v[i]=true;
-      if(k==1 || (k>1 && k!=3 && st[k]<st[k-1] && st[k]%2+st[k-1]%2<=1)||(k==3 && st[k]<st[k-1] && st[k]%2+st[k-1]%2<=1 && st[k]==5)){
+      if(k==1 || (k>1 && k!=3 && st[k]>st[k-1] && st[k]%2+st[k-1]%2<=1)||(k==3 && st[k]>st[k-1] && st[k]%2+st[k-1]%2<=1 && st[k]==5)){
         if(k==n)
           afisare();
         else
