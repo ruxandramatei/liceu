@@ -29,7 +29,6 @@ void bkt(int k){
     if(validare(k)){
       st[k]=i;
       suma+=a[k][i];
-      out<<a[k][i]<<'\n';
       if(suma>maxim)
         maxim = suma;
       if(k<n)
