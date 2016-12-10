@@ -1,0 +1,1215 @@
+Solutia nr.:1
+Ziua 1:1,2,3,4,5,
+Ziua 2:-
+Ziua 3:-
+
+Solutia nr.:2
+Ziua 1:1,2,3,4,
+Ziua 2:5,
+Ziua 3:-
+
+Solutia nr.:3
+Ziua 1:1,2,3,4,
+Ziua 2:-
+Ziua 3:5,
+
+Solutia nr.:4
+Ziua 1:1,2,3,5,
+Ziua 2:4,
+Ziua 3:-
+
+Solutia nr.:5
+Ziua 1:1,2,3,
+Ziua 2:4,5,
+Ziua 3:-
+
+Solutia nr.:6
+Ziua 1:1,2,3,
+Ziua 2:4,
+Ziua 3:5,
+
+Solutia nr.:7
+Ziua 1:1,2,3,5,
+Ziua 2:-
+Ziua 3:4,
+
+Solutia nr.:8
+Ziua 1:1,2,3,
+Ziua 2:5,
+Ziua 3:4,
+
+Solutia nr.:9
+Ziua 1:1,2,3,
+Ziua 2:-
+Ziua 3:4,5,
+
+Solutia nr.:10
+Ziua 1:1,2,4,5,
+Ziua 2:3,
+Ziua 3:-
+
+Solutia nr.:11
+Ziua 1:1,2,4,
+Ziua 2:3,5,
+Ziua 3:-
+
+Solutia nr.:12
+Ziua 1:1,2,4,
+Ziua 2:3,
+Ziua 3:5,
+
+Solutia nr.:13
+Ziua 1:1,2,5,
+Ziua 2:3,4,
+Ziua 3:-
+
+Solutia nr.:14
+Ziua 1:1,2,
+Ziua 2:3,4,5,
+Ziua 3:-
+
+Solutia nr.:15
+Ziua 1:1,2,
+Ziua 2:3,4,
+Ziua 3:5,
+
+Solutia nr.:16
+Ziua 1:1,2,5,
+Ziua 2:3,
+Ziua 3:4,
+
+Solutia nr.:17
+Ziua 1:1,2,
+Ziua 2:3,5,
+Ziua 3:4,
+
+Solutia nr.:18
+Ziua 1:1,2,
+Ziua 2:3,
+Ziua 3:4,5,
+
+Solutia nr.:19
+Ziua 1:1,2,4,5,
+Ziua 2:-
+Ziua 3:3,
+
+Solutia nr.:20
+Ziua 1:1,2,4,
+Ziua 2:5,
+Ziua 3:3,
+
+Solutia nr.:21
+Ziua 1:1,2,4,
+Ziua 2:-
+Ziua 3:3,5,
+
+Solutia nr.:22
+Ziua 1:1,2,5,
+Ziua 2:4,
+Ziua 3:3,
+
+Solutia nr.:23
+Ziua 1:1,2,
+Ziua 2:4,5,
+Ziua 3:3,
+
+Solutia nr.:24
+Ziua 1:1,2,
+Ziua 2:4,
+Ziua 3:3,5,
+
+Solutia nr.:25
+Ziua 1:1,2,5,
+Ziua 2:-
+Ziua 3:3,4,
+
+Solutia nr.:26
+Ziua 1:1,2,
+Ziua 2:5,
+Ziua 3:3,4,
+
+Solutia nr.:27
+Ziua 1:1,2,
+Ziua 2:-
+Ziua 3:3,4,5,
+
+Solutia nr.:28
+Ziua 1:1,3,4,5,
+Ziua 2:2,
+Ziua 3:-
+
+Solutia nr.:29
+Ziua 1:1,3,4,
+Ziua 2:2,5,
+Ziua 3:-
+
+Solutia nr.:30
+Ziua 1:1,3,4,
+Ziua 2:2,
+Ziua 3:5,
+
+Solutia nr.:31
+Ziua 1:1,3,5,
+Ziua 2:2,4,
+Ziua 3:-
+
+Solutia nr.:32
+Ziua 1:1,3,
+Ziua 2:2,4,5,
+Ziua 3:-
+
+Solutia nr.:33
+Ziua 1:1,3,
+Ziua 2:2,4,
+Ziua 3:5,
+
+Solutia nr.:34
+Ziua 1:1,3,5,
+Ziua 2:2,
+Ziua 3:4,
+
+Solutia nr.:35
+Ziua 1:1,3,
+Ziua 2:2,5,
+Ziua 3:4,
+
+Solutia nr.:36
+Ziua 1:1,3,
+Ziua 2:2,
+Ziua 3:4,5,
+
+Solutia nr.:37
+Ziua 1:1,4,5,
+Ziua 2:2,3,
+Ziua 3:-
+
+Solutia nr.:38
+Ziua 1:1,4,
+Ziua 2:2,3,5,
+Ziua 3:-
+
+Solutia nr.:39
+Ziua 1:1,4,
+Ziua 2:2,3,
+Ziua 3:5,
+
+Solutia nr.:40
+Ziua 1:1,5,
+Ziua 2:2,3,4,
+Ziua 3:-
+
+Solutia nr.:41
+Ziua 1:1,
+Ziua 2:2,3,4,5,
+Ziua 3:-
+
+Solutia nr.:42
+Ziua 1:1,
+Ziua 2:2,3,4,
+Ziua 3:5,
+
+Solutia nr.:43
+Ziua 1:1,5,
+Ziua 2:2,3,
+Ziua 3:4,
+
+Solutia nr.:44
+Ziua 1:1,
+Ziua 2:2,3,5,
+Ziua 3:4,
+
+Solutia nr.:45
+Ziua 1:1,
+Ziua 2:2,3,
+Ziua 3:4,5,
+
+Solutia nr.:46
+Ziua 1:1,4,5,
+Ziua 2:2,
+Ziua 3:3,
+
+Solutia nr.:47
+Ziua 1:1,4,
+Ziua 2:2,5,
+Ziua 3:3,
+
+Solutia nr.:48
+Ziua 1:1,4,
+Ziua 2:2,
+Ziua 3:3,5,
+
+Solutia nr.:49
+Ziua 1:1,5,
+Ziua 2:2,4,
+Ziua 3:3,
+
+Solutia nr.:50
+Ziua 1:1,
+Ziua 2:2,4,5,
+Ziua 3:3,
+
+Solutia nr.:51
+Ziua 1:1,
+Ziua 2:2,4,
+Ziua 3:3,5,
+
+Solutia nr.:52
+Ziua 1:1,5,
+Ziua 2:2,
+Ziua 3:3,4,
+
+Solutia nr.:53
+Ziua 1:1,
+Ziua 2:2,5,
+Ziua 3:3,4,
+
+Solutia nr.:54
+Ziua 1:1,
+Ziua 2:2,
+Ziua 3:3,4,5,
+
+Solutia nr.:55
+Ziua 1:1,3,4,5,
+Ziua 2:-
+Ziua 3:2,
+
+Solutia nr.:56
+Ziua 1:1,3,4,
+Ziua 2:5,
+Ziua 3:2,
+
+Solutia nr.:57
+Ziua 1:1,3,4,
+Ziua 2:-
+Ziua 3:2,5,
+
+Solutia nr.:58
+Ziua 1:1,3,5,
+Ziua 2:4,
+Ziua 3:2,
+
+Solutia nr.:59
+Ziua 1:1,3,
+Ziua 2:4,5,
+Ziua 3:2,
+
+Solutia nr.:60
+Ziua 1:1,3,
+Ziua 2:4,
+Ziua 3:2,5,
+
+Solutia nr.:61
+Ziua 1:1,3,5,
+Ziua 2:-
+Ziua 3:2,4,
+
+Solutia nr.:62
+Ziua 1:1,3,
+Ziua 2:5,
+Ziua 3:2,4,
+
+Solutia nr.:63
+Ziua 1:1,3,
+Ziua 2:-
+Ziua 3:2,4,5,
+
+Solutia nr.:64
+Ziua 1:1,4,5,
+Ziua 2:3,
+Ziua 3:2,
+
+Solutia nr.:65
+Ziua 1:1,4,
+Ziua 2:3,5,
+Ziua 3:2,
+
+Solutia nr.:66
+Ziua 1:1,4,
+Ziua 2:3,
+Ziua 3:2,5,
+
+Solutia nr.:67
+Ziua 1:1,5,
+Ziua 2:3,4,
+Ziua 3:2,
+
+Solutia nr.:68
+Ziua 1:1,
+Ziua 2:3,4,5,
+Ziua 3:2,
+
+Solutia nr.:69
+Ziua 1:1,
+Ziua 2:3,4,
+Ziua 3:2,5,
+
+Solutia nr.:70
+Ziua 1:1,5,
+Ziua 2:3,
+Ziua 3:2,4,
+
+Solutia nr.:71
+Ziua 1:1,
+Ziua 2:3,5,
+Ziua 3:2,4,
+
+Solutia nr.:72
+Ziua 1:1,
+Ziua 2:3,
+Ziua 3:2,4,5,
+
+Solutia nr.:73
+Ziua 1:1,4,5,
+Ziua 2:-
+Ziua 3:2,3,
+
+Solutia nr.:74
+Ziua 1:1,4,
+Ziua 2:5,
+Ziua 3:2,3,
+
+Solutia nr.:75
+Ziua 1:1,4,
+Ziua 2:-
+Ziua 3:2,3,5,
+
+Solutia nr.:76
+Ziua 1:1,5,
+Ziua 2:4,
+Ziua 3:2,3,
+
+Solutia nr.:77
+Ziua 1:1,
+Ziua 2:4,5,
+Ziua 3:2,3,
+
+Solutia nr.:78
+Ziua 1:1,
+Ziua 2:4,
+Ziua 3:2,3,5,
+
+Solutia nr.:79
+Ziua 1:1,5,
+Ziua 2:-
+Ziua 3:2,3,4,
+
+Solutia nr.:80
+Ziua 1:1,
+Ziua 2:5,
+Ziua 3:2,3,4,
+
+Solutia nr.:81
+Ziua 1:1,
+Ziua 2:-
+Ziua 3:2,3,4,5,
+
+Solutia nr.:82
+Ziua 1:2,3,4,5,
+Ziua 2:1,
+Ziua 3:-
+
+Solutia nr.:83
+Ziua 1:2,3,4,
+Ziua 2:1,5,
+Ziua 3:-
+
+Solutia nr.:84
+Ziua 1:2,3,4,
+Ziua 2:1,
+Ziua 3:5,
+
+Solutia nr.:85
+Ziua 1:2,3,5,
+Ziua 2:1,4,
+Ziua 3:-
+
+Solutia nr.:86
+Ziua 1:2,3,
+Ziua 2:1,4,5,
+Ziua 3:-
+
+Solutia nr.:87
+Ziua 1:2,3,
+Ziua 2:1,4,
+Ziua 3:5,
+
+Solutia nr.:88
+Ziua 1:2,3,5,
+Ziua 2:1,
+Ziua 3:4,
+
+Solutia nr.:89
+Ziua 1:2,3,
+Ziua 2:1,5,
+Ziua 3:4,
+
+Solutia nr.:90
+Ziua 1:2,3,
+Ziua 2:1,
+Ziua 3:4,5,
+
+Solutia nr.:91
+Ziua 1:2,4,5,
+Ziua 2:1,3,
+Ziua 3:-
+
+Solutia nr.:92
+Ziua 1:2,4,
+Ziua 2:1,3,5,
+Ziua 3:-
+
+Solutia nr.:93
+Ziua 1:2,4,
+Ziua 2:1,3,
+Ziua 3:5,
+
+Solutia nr.:94
+Ziua 1:2,5,
+Ziua 2:1,3,4,
+Ziua 3:-
+
+Solutia nr.:95
+Ziua 1:2,
+Ziua 2:1,3,4,5,
+Ziua 3:-
+
+Solutia nr.:96
+Ziua 1:2,
+Ziua 2:1,3,4,
+Ziua 3:5,
+
+Solutia nr.:97
+Ziua 1:2,5,
+Ziua 2:1,3,
+Ziua 3:4,
+
+Solutia nr.:98
+Ziua 1:2,
+Ziua 2:1,3,5,
+Ziua 3:4,
+
+Solutia nr.:99
+Ziua 1:2,
+Ziua 2:1,3,
+Ziua 3:4,5,
+
+Solutia nr.:100
+Ziua 1:2,4,5,
+Ziua 2:1,
+Ziua 3:3,
+
+Solutia nr.:101
+Ziua 1:2,4,
+Ziua 2:1,5,
+Ziua 3:3,
+
+Solutia nr.:102
+Ziua 1:2,4,
+Ziua 2:1,
+Ziua 3:3,5,
+
+Solutia nr.:103
+Ziua 1:2,5,
+Ziua 2:1,4,
+Ziua 3:3,
+
+Solutia nr.:104
+Ziua 1:2,
+Ziua 2:1,4,5,
+Ziua 3:3,
+
+Solutia nr.:105
+Ziua 1:2,
+Ziua 2:1,4,
+Ziua 3:3,5,
+
+Solutia nr.:106
+Ziua 1:2,5,
+Ziua 2:1,
+Ziua 3:3,4,
+
+Solutia nr.:107
+Ziua 1:2,
+Ziua 2:1,5,
+Ziua 3:3,4,
+
+Solutia nr.:108
+Ziua 1:2,
+Ziua 2:1,
+Ziua 3:3,4,5,
+
+Solutia nr.:109
+Ziua 1:3,4,5,
+Ziua 2:1,2,
+Ziua 3:-
+
+Solutia nr.:110
+Ziua 1:3,4,
+Ziua 2:1,2,5,
+Ziua 3:-
+
+Solutia nr.:111
+Ziua 1:3,4,
+Ziua 2:1,2,
+Ziua 3:5,
+
+Solutia nr.:112
+Ziua 1:3,5,
+Ziua 2:1,2,4,
+Ziua 3:-
+
+Solutia nr.:113
+Ziua 1:3,
+Ziua 2:1,2,4,5,
+Ziua 3:-
+
+Solutia nr.:114
+Ziua 1:3,
+Ziua 2:1,2,4,
+Ziua 3:5,
+
+Solutia nr.:115
+Ziua 1:3,5,
+Ziua 2:1,2,
+Ziua 3:4,
+
+Solutia nr.:116
+Ziua 1:3,
+Ziua 2:1,2,5,
+Ziua 3:4,
+
+Solutia nr.:117
+Ziua 1:3,
+Ziua 2:1,2,
+Ziua 3:4,5,
+
+Solutia nr.:118
+Ziua 1:4,5,
+Ziua 2:1,2,3,
+Ziua 3:-
+
+Solutia nr.:119
+Ziua 1:4,
+Ziua 2:1,2,3,5,
+Ziua 3:-
+
+Solutia nr.:120
+Ziua 1:4,
+Ziua 2:1,2,3,
+Ziua 3:5,
+
+Solutia nr.:121
+Ziua 1:5,
+Ziua 2:1,2,3,4,
+Ziua 3:-
+
+Solutia nr.:122
+Ziua 1:-
+Ziua 2:1,2,3,4,5,
+Ziua 3:-
+
+Solutia nr.:123
+Ziua 1:-
+Ziua 2:1,2,3,4,
+Ziua 3:5,
+
+Solutia nr.:124
+Ziua 1:5,
+Ziua 2:1,2,3,
+Ziua 3:4,
+
+Solutia nr.:125
+Ziua 1:-
+Ziua 2:1,2,3,5,
+Ziua 3:4,
+
+Solutia nr.:126
+Ziua 1:-
+Ziua 2:1,2,3,
+Ziua 3:4,5,
+
+Solutia nr.:127
+Ziua 1:4,5,
+Ziua 2:1,2,
+Ziua 3:3,
+
+Solutia nr.:128
+Ziua 1:4,
+Ziua 2:1,2,5,
+Ziua 3:3,
+
+Solutia nr.:129
+Ziua 1:4,
+Ziua 2:1,2,
+Ziua 3:3,5,
+
+Solutia nr.:130
+Ziua 1:5,
+Ziua 2:1,2,4,
+Ziua 3:3,
+
+Solutia nr.:131
+Ziua 1:-
+Ziua 2:1,2,4,5,
+Ziua 3:3,
+
+Solutia nr.:132
+Ziua 1:-
+Ziua 2:1,2,4,
+Ziua 3:3,5,
+
+Solutia nr.:133
+Ziua 1:5,
+Ziua 2:1,2,
+Ziua 3:3,4,
+
+Solutia nr.:134
+Ziua 1:-
+Ziua 2:1,2,5,
+Ziua 3:3,4,
+
+Solutia nr.:135
+Ziua 1:-
+Ziua 2:1,2,
+Ziua 3:3,4,5,
+
+Solutia nr.:136
+Ziua 1:3,4,5,
+Ziua 2:1,
+Ziua 3:2,
+
+Solutia nr.:137
+Ziua 1:3,4,
+Ziua 2:1,5,
+Ziua 3:2,
+
+Solutia nr.:138
+Ziua 1:3,4,
+Ziua 2:1,
+Ziua 3:2,5,
+
+Solutia nr.:139
+Ziua 1:3,5,
+Ziua 2:1,4,
+Ziua 3:2,
+
+Solutia nr.:140
+Ziua 1:3,
+Ziua 2:1,4,5,
+Ziua 3:2,
+
+Solutia nr.:141
+Ziua 1:3,
+Ziua 2:1,4,
+Ziua 3:2,5,
+
+Solutia nr.:142
+Ziua 1:3,5,
+Ziua 2:1,
+Ziua 3:2,4,
+
+Solutia nr.:143
+Ziua 1:3,
+Ziua 2:1,5,
+Ziua 3:2,4,
+
+Solutia nr.:144
+Ziua 1:3,
+Ziua 2:1,
+Ziua 3:2,4,5,
+
+Solutia nr.:145
+Ziua 1:4,5,
+Ziua 2:1,3,
+Ziua 3:2,
+
+Solutia nr.:146
+Ziua 1:4,
+Ziua 2:1,3,5,
+Ziua 3:2,
+
+Solutia nr.:147
+Ziua 1:4,
+Ziua 2:1,3,
+Ziua 3:2,5,
+
+Solutia nr.:148
+Ziua 1:5,
+Ziua 2:1,3,4,
+Ziua 3:2,
+
+Solutia nr.:149
+Ziua 1:-
+Ziua 2:1,3,4,5,
+Ziua 3:2,
+
+Solutia nr.:150
+Ziua 1:-
+Ziua 2:1,3,4,
+Ziua 3:2,5,
+
+Solutia nr.:151
+Ziua 1:5,
+Ziua 2:1,3,
+Ziua 3:2,4,
+
+Solutia nr.:152
+Ziua 1:-
+Ziua 2:1,3,5,
+Ziua 3:2,4,
+
+Solutia nr.:153
+Ziua 1:-
+Ziua 2:1,3,
+Ziua 3:2,4,5,
+
+Solutia nr.:154
+Ziua 1:4,5,
+Ziua 2:1,
+Ziua 3:2,3,
+
+Solutia nr.:155
+Ziua 1:4,
+Ziua 2:1,5,
+Ziua 3:2,3,
+
+Solutia nr.:156
+Ziua 1:4,
+Ziua 2:1,
+Ziua 3:2,3,5,
+
+Solutia nr.:157
+Ziua 1:5,
+Ziua 2:1,4,
+Ziua 3:2,3,
+
+Solutia nr.:158
+Ziua 1:-
+Ziua 2:1,4,5,
+Ziua 3:2,3,
+
+Solutia nr.:159
+Ziua 1:-
+Ziua 2:1,4,
+Ziua 3:2,3,5,
+
+Solutia nr.:160
+Ziua 1:5,
+Ziua 2:1,
+Ziua 3:2,3,4,
+
+Solutia nr.:161
+Ziua 1:-
+Ziua 2:1,5,
+Ziua 3:2,3,4,
+
+Solutia nr.:162
+Ziua 1:-
+Ziua 2:1,
+Ziua 3:2,3,4,5,
+
+Solutia nr.:163
+Ziua 1:2,3,4,5,
+Ziua 2:-
+Ziua 3:1,
+
+Solutia nr.:164
+Ziua 1:2,3,4,
+Ziua 2:5,
+Ziua 3:1,
+
+Solutia nr.:165
+Ziua 1:2,3,4,
+Ziua 2:-
+Ziua 3:1,5,
+
+Solutia nr.:166
+Ziua 1:2,3,5,
+Ziua 2:4,
+Ziua 3:1,
+
+Solutia nr.:167
+Ziua 1:2,3,
+Ziua 2:4,5,
+Ziua 3:1,
+
+Solutia nr.:168
+Ziua 1:2,3,
+Ziua 2:4,
+Ziua 3:1,5,
+
+Solutia nr.:169
+Ziua 1:2,3,5,
+Ziua 2:-
+Ziua 3:1,4,
+
+Solutia nr.:170
+Ziua 1:2,3,
+Ziua 2:5,
+Ziua 3:1,4,
+
+Solutia nr.:171
+Ziua 1:2,3,
+Ziua 2:-
+Ziua 3:1,4,5,
+
+Solutia nr.:172
+Ziua 1:2,4,5,
+Ziua 2:3,
+Ziua 3:1,
+
+Solutia nr.:173
+Ziua 1:2,4,
+Ziua 2:3,5,
+Ziua 3:1,
+
+Solutia nr.:174
+Ziua 1:2,4,
+Ziua 2:3,
+Ziua 3:1,5,
+
+Solutia nr.:175
+Ziua 1:2,5,
+Ziua 2:3,4,
+Ziua 3:1,
+
+Solutia nr.:176
+Ziua 1:2,
+Ziua 2:3,4,5,
+Ziua 3:1,
+
+Solutia nr.:177
+Ziua 1:2,
+Ziua 2:3,4,
+Ziua 3:1,5,
+
+Solutia nr.:178
+Ziua 1:2,5,
+Ziua 2:3,
+Ziua 3:1,4,
+
+Solutia nr.:179
+Ziua 1:2,
+Ziua 2:3,5,
+Ziua 3:1,4,
+
+Solutia nr.:180
+Ziua 1:2,
+Ziua 2:3,
+Ziua 3:1,4,5,
+
+Solutia nr.:181
+Ziua 1:2,4,5,
+Ziua 2:-
+Ziua 3:1,3,
+
+Solutia nr.:182
+Ziua 1:2,4,
+Ziua 2:5,
+Ziua 3:1,3,
+
+Solutia nr.:183
+Ziua 1:2,4,
+Ziua 2:-
+Ziua 3:1,3,5,
+
+Solutia nr.:184
+Ziua 1:2,5,
+Ziua 2:4,
+Ziua 3:1,3,
+
+Solutia nr.:185
+Ziua 1:2,
+Ziua 2:4,5,
+Ziua 3:1,3,
+
+Solutia nr.:186
+Ziua 1:2,
+Ziua 2:4,
+Ziua 3:1,3,5,
+
+Solutia nr.:187
+Ziua 1:2,5,
+Ziua 2:-
+Ziua 3:1,3,4,
+
+Solutia nr.:188
+Ziua 1:2,
+Ziua 2:5,
+Ziua 3:1,3,4,
+
+Solutia nr.:189
+Ziua 1:2,
+Ziua 2:-
+Ziua 3:1,3,4,5,
+
+Solutia nr.:190
+Ziua 1:3,4,5,
+Ziua 2:2,
+Ziua 3:1,
+
+Solutia nr.:191
+Ziua 1:3,4,
+Ziua 2:2,5,
+Ziua 3:1,
+
+Solutia nr.:192
+Ziua 1:3,4,
+Ziua 2:2,
+Ziua 3:1,5,
+
+Solutia nr.:193
+Ziua 1:3,5,
+Ziua 2:2,4,
+Ziua 3:1,
+
+Solutia nr.:194
+Ziua 1:3,
+Ziua 2:2,4,5,
+Ziua 3:1,
+
+Solutia nr.:195
+Ziua 1:3,
+Ziua 2:2,4,
+Ziua 3:1,5,
+
+Solutia nr.:196
+Ziua 1:3,5,
+Ziua 2:2,
+Ziua 3:1,4,
+
+Solutia nr.:197
+Ziua 1:3,
+Ziua 2:2,5,
+Ziua 3:1,4,
+
+Solutia nr.:198
+Ziua 1:3,
+Ziua 2:2,
+Ziua 3:1,4,5,
+
+Solutia nr.:199
+Ziua 1:4,5,
+Ziua 2:2,3,
+Ziua 3:1,
+
+Solutia nr.:200
+Ziua 1:4,
+Ziua 2:2,3,5,
+Ziua 3:1,
+
+Solutia nr.:201
+Ziua 1:4,
+Ziua 2:2,3,
+Ziua 3:1,5,
+
+Solutia nr.:202
+Ziua 1:5,
+Ziua 2:2,3,4,
+Ziua 3:1,
+
+Solutia nr.:203
+Ziua 1:-
+Ziua 2:2,3,4,5,
+Ziua 3:1,
+
+Solutia nr.:204
+Ziua 1:-
+Ziua 2:2,3,4,
+Ziua 3:1,5,
+
+Solutia nr.:205
+Ziua 1:5,
+Ziua 2:2,3,
+Ziua 3:1,4,
+
+Solutia nr.:206
+Ziua 1:-
+Ziua 2:2,3,5,
+Ziua 3:1,4,
+
+Solutia nr.:207
+Ziua 1:-
+Ziua 2:2,3,
+Ziua 3:1,4,5,
+
+Solutia nr.:208
+Ziua 1:4,5,
+Ziua 2:2,
+Ziua 3:1,3,
+
+Solutia nr.:209
+Ziua 1:4,
+Ziua 2:2,5,
+Ziua 3:1,3,
+
+Solutia nr.:210
+Ziua 1:4,
+Ziua 2:2,
+Ziua 3:1,3,5,
+
+Solutia nr.:211
+Ziua 1:5,
+Ziua 2:2,4,
+Ziua 3:1,3,
+
+Solutia nr.:212
+Ziua 1:-
+Ziua 2:2,4,5,
+Ziua 3:1,3,
+
+Solutia nr.:213
+Ziua 1:-
+Ziua 2:2,4,
+Ziua 3:1,3,5,
+
+Solutia nr.:214
+Ziua 1:5,
+Ziua 2:2,
+Ziua 3:1,3,4,
+
+Solutia nr.:215
+Ziua 1:-
+Ziua 2:2,5,
+Ziua 3:1,3,4,
+
+Solutia nr.:216
+Ziua 1:-
+Ziua 2:2,
+Ziua 3:1,3,4,5,
+
+Solutia nr.:217
+Ziua 1:3,4,5,
+Ziua 2:-
+Ziua 3:1,2,
+
+Solutia nr.:218
+Ziua 1:3,4,
+Ziua 2:5,
+Ziua 3:1,2,
+
+Solutia nr.:219
+Ziua 1:3,4,
+Ziua 2:-
+Ziua 3:1,2,5,
+
+Solutia nr.:220
+Ziua 1:3,5,
+Ziua 2:4,
+Ziua 3:1,2,
+
+Solutia nr.:221
+Ziua 1:3,
+Ziua 2:4,5,
+Ziua 3:1,2,
+
+Solutia nr.:222
+Ziua 1:3,
+Ziua 2:4,
+Ziua 3:1,2,5,
+
+Solutia nr.:223
+Ziua 1:3,5,
+Ziua 2:-
+Ziua 3:1,2,4,
+
+Solutia nr.:224
+Ziua 1:3,
+Ziua 2:5,
+Ziua 3:1,2,4,
+
+Solutia nr.:225
+Ziua 1:3,
+Ziua 2:-
+Ziua 3:1,2,4,5,
+
+Solutia nr.:226
+Ziua 1:4,5,
+Ziua 2:3,
+Ziua 3:1,2,
+
+Solutia nr.:227
+Ziua 1:4,
+Ziua 2:3,5,
+Ziua 3:1,2,
+
+Solutia nr.:228
+Ziua 1:4,
+Ziua 2:3,
+Ziua 3:1,2,5,
+
+Solutia nr.:229
+Ziua 1:5,
+Ziua 2:3,4,
+Ziua 3:1,2,
+
+Solutia nr.:230
+Ziua 1:-
+Ziua 2:3,4,5,
+Ziua 3:1,2,
+
+Solutia nr.:231
+Ziua 1:-
+Ziua 2:3,4,
+Ziua 3:1,2,5,
+
+Solutia nr.:232
+Ziua 1:5,
+Ziua 2:3,
+Ziua 3:1,2,4,
+
+Solutia nr.:233
+Ziua 1:-
+Ziua 2:3,5,
+Ziua 3:1,2,4,
+
+Solutia nr.:234
+Ziua 1:-
+Ziua 2:3,
+Ziua 3:1,2,4,5,
+
+Solutia nr.:235
+Ziua 1:4,5,
+Ziua 2:-
+Ziua 3:1,2,3,
+
+Solutia nr.:236
+Ziua 1:4,
+Ziua 2:5,
+Ziua 3:1,2,3,
+
+Solutia nr.:237
+Ziua 1:4,
+Ziua 2:-
+Ziua 3:1,2,3,5,
+
+Solutia nr.:238
+Ziua 1:5,
+Ziua 2:4,
+Ziua 3:1,2,3,
+
+Solutia nr.:239
+Ziua 1:-
+Ziua 2:4,5,
+Ziua 3:1,2,3,
+
+Solutia nr.:240
+Ziua 1:-
+Ziua 2:4,
+Ziua 3:1,2,3,5,
+
+Solutia nr.:241
+Ziua 1:5,
+Ziua 2:-
+Ziua 3:1,2,3,4,
+
+Solutia nr.:242
+Ziua 1:-
+Ziua 2:5,
+Ziua 3:1,2,3,4,
+
+Solutia nr.:243
+Ziua 1:-
+Ziua 2:-
+Ziua 3:1,2,3,4,5,
+
