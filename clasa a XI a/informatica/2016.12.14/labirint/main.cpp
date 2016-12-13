@@ -28,7 +28,7 @@ void citire(){
 
 void afisare(int k){
   for(int i=1;i<=k;i++)
-    out<<"("<<st[i].x<<";"<<st[i].y<<")->";
+    out<<"("<<st[i].x<<";"<<st[i].y<<")\n";
   out<<'\n';
 }
 
