@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488105248 source:d:\informatica\liceu\2.27.2017\pb2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
