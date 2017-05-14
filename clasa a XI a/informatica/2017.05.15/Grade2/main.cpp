@@ -28,6 +28,7 @@ void sumaLinCol(){
 
 void rezolvare(){
   int nre[101],cont=0;
+  nre[0]=0;
   for(int i=1;i<=n;i++)
     if(a[0][i]==a[i][0])
       {
