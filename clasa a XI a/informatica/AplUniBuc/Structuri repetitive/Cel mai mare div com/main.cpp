@@ -3,26 +3,26 @@
 
 using namespace std;
 
-ifstream in("cmmdcScaderi.in");
-ofstream out("cmmdcScaderi.out");
-
-//ALGORITMUL LUI NICOMAHUS (metoda scaderilor repetate)
+ifstream in("cmmdcEuclid.in");
+ofstream out("cmmdcEuclid.out");
 
 int main(){
-  int x, y;
-  int temp1,temp2;
-
+  int x, y, r;
   in>>x>>y;
-  temp1 = x;
-  temp2 = y;
 
-  while(temp1 != temp2){
-    if(temp1 > temp2)
-      temp1 = temp1 - temp2;
-    else
-      temp2 = temp2 - temp1;
+  if(x<y){
+    int temp = x;
+    x = y;
+    y = temp;
   }
 
-  out<<"CMMDC celor 2 numere este : "<<temp1;
-  out<<"\nCMMMC celor 2 numere este : "<<(x*y)/temp1;
+  do{
+    r = x % y;
+    x = y;
+    y = r;
+  }while(y!=0);
+
+  out<<"Cel mai mare divizor comun este : "<<x;
+  
+  return 0;
 }
