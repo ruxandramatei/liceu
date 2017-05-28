@@ -11,12 +11,22 @@ class Complex{
          void Adunare(Complex , Complex);
          friend Complex operator +(Complex, Complex);
          friend istream &operator >>(istream &, Complex& );
+         friend ostream &operator <<(ostream &, Complex&);
 };
 
 istream &operator>>( istream  &input, Complex &a ) {
         input >> a.re >> a.im;
         return input;
      }
+ostream &operator<<(ostream &output, Complex &a){
+        if(a.im>0)
+          output<<a.re<<"+"<<a.im<<"i\n";
+        else if(a.im == 0)
+          output<<a.re<<'\n';
+        else
+          output<<a.re<<a.im<<"i\n";
+        return output;
+}
 
 Complex::Complex(){
   ;
@@ -66,6 +76,6 @@ int main(){
   // c3.Adunare(c1,c2);
   // c3.Afisare();
   // c4 = c1 + c2;
-  c1.Afisare();
+  cout<<c1;
   return 0;
 }
