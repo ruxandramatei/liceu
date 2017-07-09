@@ -33,3 +33,18 @@
   **OBSERVATIE!**
 
   *De aceea, apostroful este folosit mai ales în stilul beletristic — în proză și în teatru pentru caracterizarea unor personaje prin reproducerea vorbirii lor, iar în poezie din motive de prozodie, permițând eliminarea unei silabe.*
+
+  ### 2. **CRATIMA**
+
+  A.**SEMN ORTOGRAFIC**
+
+    * Marcheaza rostirea impreuna a doua sau mai multe cuvinte:
+            vazandu-l
+            s-au
+    * La scrierea cuvintelor compuse:
+            oras-port
+            pierde-vara
+    * La scrierea unor derivate cu prefixe, in special pentru a scoate in evidenta prefixul:
+            re-scriere
+    * Pentru a lega desinenta ori articolul hotarat postpus de un cuvant cu un aspect neobisnuit ca rostire sau scriere:
+            analogolon-ul
