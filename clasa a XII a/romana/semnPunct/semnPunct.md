@@ -9,6 +9,7 @@
   2. **REGULI DE FOLOSIRE** :
 
   **In limba literară:**
+
     - marchează, în special în stilul publicistic, absența accidentală a primei sau a primelor două cifre în indicarea anilor calendaristici:
 
             [’]918 în loc de 1918,
@@ -23,6 +24,7 @@
             Mc Donald[’]s
 
   **In limba nonliterară**
+  
       - folosit pentru redarea vorbirii neîngrijite, familiare, regionale sau populare:
 
             al[’]fel, cân[’]va
