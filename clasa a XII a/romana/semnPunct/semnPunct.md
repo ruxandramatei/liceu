@@ -1,6 +1,6 @@
 ## I.Rolul semnelor de punctuatie si de ortografie
 
-##### 1. APOSTROFUL
+##### 1. **APOSTROFUL**
 
   A.  **DEFINITIE** :
 
