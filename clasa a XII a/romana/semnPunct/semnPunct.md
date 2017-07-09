@@ -39,12 +39,19 @@
   A. **SEMN ORTOGRAFIC**
 
 1. Marcheaza rostirea impreuna a doua sau mai multe cuvinte:
+
             vazandu-l
             s-au
+
 2. La scrierea cuvintelor compuse:
+
             oras-port
             pierde-vara
+
 3. La scrierea unor derivate cu prefixe, in special pentru a scoate in evidenta prefixul:
+
             re-scriere
+
 4. Pentru a lega desinenta ori articolul hotarat postpus de un cuvant cu un aspect neobisnuit ca rostire sau scriere:
+
             analogolon-ul
