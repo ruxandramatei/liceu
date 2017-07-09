@@ -8,7 +8,7 @@
 
   2. **REGULI DE FOLOSIRE** :
 
-  ** In limba literară: **
+  **In limba literară:**
     - marchează, în special în stilul publicistic, absența accidentală a primei sau a primelor două cifre în indicarea anilor calendaristici:
 
             [’]918 în loc de 1918,
@@ -22,7 +22,7 @@
             D[’]Annunzio, D[’]Artagnan
             Mc Donald[’]s
 
-  ** In limba nonliterară **
+  **In limba nonliterară**
       - folosit pentru redarea vorbirii neîngrijite, familiare, regionale sau populare:
 
             al[’]fel, cân[’]va
