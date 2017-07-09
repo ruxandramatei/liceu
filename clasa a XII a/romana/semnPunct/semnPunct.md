@@ -8,23 +8,23 @@
 
   2. **REGULI DE FOLOSIRE** :
 
-    **In limba literară:**
+  **In limba literară:**
 
-      * marchează, în special în stilul publicistic, absența accidentală a primei sau a primelor două cifre în indicarea anilor calendaristici:
+      1. marchează, în special în stilul publicistic, absența accidentală a primei sau a primelor două cifre în indicarea anilor calendaristici:
 
               [’]918 în loc de 1918,
               [’]89 în loc de 1989;
 
-      * În construcțiile cu prefixe, cum ar fi *ante-[’]89, post-[’]89,* cratima precedă obligatoriu apostroful.
-      * se regăsește în unele împrumuturi din alte limbi (în care are alte funcții decât în română), cum sunt:
+      2. În construcțiile cu prefixe, cum ar fi *ante-[’]89, post-[’]89,* cratima precedă obligatoriu apostroful.
+      3.  se regăsește în unele împrumuturi din alte limbi (în care are alte funcții decât în română), cum sunt:
 
               five o[’]clock
               D[’]Annunzio, D[’]Artagnan
               Mc Donald[’]s
 
-    **In limba nonliterară**
+  **In limba nonliterară**
 
-      * folosit pentru redarea vorbirii neîngrijite, familiare, regionale sau populare:
+      1. folosit pentru redarea vorbirii neîngrijite, familiare, regionale sau populare:
 
               al[’]fel, cân[’]va
               altădat[’], făr[’]
