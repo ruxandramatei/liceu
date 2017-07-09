@@ -10,26 +10,26 @@
 
   **In limba literară:**
 
-    - marchează, în special în stilul publicistic, absența accidentală a primei sau a primelor două cifre în indicarea anilor calendaristici:
+    * marchează, în special în stilul publicistic, absența accidentală a primei sau a primelor două cifre în indicarea anilor calendaristici:
 
             [’]918 în loc de 1918,
             [’]89 în loc de 1989;
 
-        În construcțiile cu prefixe, cum ar fi *ante-[’]89, post-[’]89,* cratima precedă obligatoriu apostroful.
+    * În construcțiile cu prefixe, cum ar fi *ante-[’]89, post-[’]89,* cratima precedă obligatoriu apostroful.
 
-    - se regăsește în unele împrumuturi din alte limbi (în care are alte funcții decât în română), cum sunt:
+    * se regăsește în unele împrumuturi din alte limbi (în care are alte funcții decât în română), cum sunt:
 
             five o[’]clock
             D[’]Annunzio, D[’]Artagnan
             Mc Donald[’]s
 
   **In limba nonliterară**
-  
+
       - folosit pentru redarea vorbirii neîngrijite, familiare, regionale sau populare:
 
             al[’]fel, cân[’]va
             altădat[’], făr[’]
-            (dom[’]le, [’]neața
+            dom[’]le, [’]neața
 
   **OBSERVATIE!**
 
