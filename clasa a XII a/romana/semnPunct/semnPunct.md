@@ -36,15 +36,15 @@
 
   ### 2. **CRATIMA**
 
-  A.**SEMN ORTOGRAFIC**
+  A. **SEMN ORTOGRAFIC**
 
-    * Marcheaza rostirea impreuna a doua sau mai multe cuvinte:
+1. Marcheaza rostirea impreuna a doua sau mai multe cuvinte:
             vazandu-l
             s-au
-    * La scrierea cuvintelor compuse:
+2. La scrierea cuvintelor compuse:
             oras-port
             pierde-vara
-    * La scrierea unor derivate cu prefixe, in special pentru a scoate in evidenta prefixul:
+3. La scrierea unor derivate cu prefixe, in special pentru a scoate in evidenta prefixul:
             re-scriere
-    * Pentru a lega desinenta ori articolul hotarat postpus de un cuvant cu un aspect neobisnuit ca rostire sau scriere:
+4. Pentru a lega desinenta ori articolul hotarat postpus de un cuvant cu un aspect neobisnuit ca rostire sau scriere:
             analogolon-ul
