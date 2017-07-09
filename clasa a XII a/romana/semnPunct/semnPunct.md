@@ -4,7 +4,7 @@
 
   A.  **DEFINITIE** :
 
-  **Semn ortografic**  ce marcheaza *__absenta accidentala__* in rostire *__a unor sunete__*, absenta determinata fie de tendinta vorbitorilor de a se exprima cat mai scurt, fie de imposibilitatea de a se exprima din cauza unor defecte de vorbire.
+  **SEMN ORTOGRAFIC**  ce marcheaza *__absenta accidentala__* in rostire *__a unor sunete__*, absenta determinata fie de tendinta vorbitorilor de a se exprima cat mai scurt, fie de imposibilitatea de a se exprima din cauza unor defecte de vorbire.
 
   B. **REGULI DE FOLOSIRE** :
 
@@ -55,3 +55,7 @@
 4. Pentru a lega desinenta ori articolul hotarat postpus de un cuvant cu un aspect neobisnuit ca rostire sau scriere:
 
             analogolon-ul
+
+5. In prescurtarile realizate prin omiterea unor parti ale cuvantului:
+
+            D-ta
